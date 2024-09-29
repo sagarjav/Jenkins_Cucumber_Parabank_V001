@@ -22,7 +22,7 @@ public class BaseClass {
     public static Logger logger;
     public Properties configProp;
     
-   
+   //some changes
 	
 	//for Unique Username 
 	public static String randomString() {
