@@ -1,0 +1,1 @@
+mvn -f C:\Users\HP\eclipse-workspace\CucumberParaBank clean test
